@@ -4,3 +4,16 @@
 .nav-spacing {
   margin: 0 0 0 10px;
 }
+.image-link {
+  text-decoration: none;
+}
+.block-class {
+  padding: 2px 20px;
+  background: #b3a8a8;
+}
+.book-cover {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #c9b4b4;
+}
